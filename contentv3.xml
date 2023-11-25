@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Matemática Discreta Proposiciones"></unicode>
+  <unicode value="Matematica Discreta"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -11,7 +11,7 @@
   <string role="key" value="_addSearchBox"></string>
   <bool value="0"></bool>
   <string role="key" value="_author"></string>
-  <unicode value="marchelo2212"></unicode>
+  <unicode value="Marcelo Sotaminga"></unicode>
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
@@ -19,8 +19,7 @@
   <string role="key" value="_contextPlace"></string>
   <unicode value=""></unicode>
   <string role="key" value="_description"></string>
-  <unicode value="Sitio web sobre matemática discreta
-"></unicode>
+  <unicode value="V1"></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -84,24 +83,24 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="Matematuca_Discreta_Proposiciones"></unicode>
+  <unicode value="Matematica_discreta"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="8"></int>
+  <int value="10"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="5"></int>
+  <int value="13"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
    <instance class="exe.engine.node.Node" reference="3">
     <dictionary>
      <string role="key" value="_title"></string>
-     <unicode value="Inicio"></unicode>
+     <unicode value="Matemática Discreta"></unicode>
      <string role="key" value="idevices"></string>
      <list>
       <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Bienvenido"></unicode>
+        <unicode value=""></unicode>
         <string role="key" value="_attributes"></string>
         <list>
          <tuple>
@@ -154,7 +153,7 @@
         <string role="key" value="edit"></string>
         <bool value="0"></bool>
         <string role="key" value="emphasis"></string>
-        <int value="1"></int>
+        <int value="0"></int>
         <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
         <int value="1"></int>
         <string role="key" value="fields"></string>
@@ -162,7 +161,7 @@
          <instance class="exe.engine.field.TextAreaField" reference="2">
           <dictionary>
            <string role="key" value="_id"></string>
-           <unicode value="120_2"></unicode>
+           <unicode value="140_2"></unicode>
            <string role="key" value="_idevice"></string>
            <reference key="1"></reference>
            <string role="key" value="_instruc"></string>
@@ -172,9 +171,9 @@
            <string role="key" value="anchor_names"></string>
            <list></list>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;em&gt;Revisa aquí este recurso.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Mostrar retroalimentación&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;1200px&quot; height=&quot;675px&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;Presentación Matemática Discreta&quot; frameborder=&quot;0&quot; src=&quot;https://view.genial.ly/6445fc1666068000114026a7&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -204,7 +203,7 @@
         <string role="key" value="icon"></string>
         <unicode value=""></unicode>
         <string role="key" value="id"></string>
-        <unicode value="7"></unicode>
+        <unicode value="5"></unicode>
         <string role="key" value="ideviceCategory"></string>
         <unicode value="Text and Tasks"></unicode>
         <string role="key" value="lastIdevice"></string>
@@ -230,26 +229,30 @@
      <unicode value="0"></unicode>
      <string role="key" value="_package"></string>
      <reference key="4"></reference>
+     <string role="key" value="anchor_fields"></string>
+     <list></list>
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
      <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Inicio"></string>
+     <string value="exe-node:Matem%C3%A1tica%20Discreta"></string>
      <string role="key" value="parent"></string>
      <none></none>
+     <string role="key" value="top_anchors_linked_from_fields"></string>
+     <list></list>
      <string role="key" value="children"></string>
      <list>
       <instance class="exe.engine.node.Node" reference="7">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Lógica y proposiciones"></unicode>
+        <unicode value="T1-LÓGICA PROPOSICIONAL"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="5">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Terminología e introducción "></unicode>
+           <unicode value=""></unicode>
            <string role="key" value="_attributes"></string>
            <list>
             <tuple>
@@ -302,7 +305,7 @@
            <string role="key" value="edit"></string>
            <bool value="0"></bool>
            <string role="key" value="emphasis"></string>
-           <int value="1"></int>
+           <int value="0"></int>
            <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
            <int value="1"></int>
            <string role="key" value="fields"></string>
@@ -310,7 +313,7 @@
             <instance class="exe.engine.field.TextAreaField" reference="6">
              <dictionary>
               <string role="key" value="_id"></string>
-              <unicode value="125_2"></unicode>
+              <unicode value="142_2"></unicode>
               <string role="key" value="_idevice"></string>
               <reference key="5"></reference>
               <string role="key" value="_instruc"></string>
@@ -319,30 +322,10 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1&gt;Lógica&lt;/h1&gt;
-&lt;p&gt;La lógica es una rama de la filosofía y las matemáticas que se ocupa del estudio de los principios y métodos de razonamiento válido. Se centra en argumentos y declaraciones, y en cómo se estructuran para formar un razonamiento válido o inválido.&lt;/p&gt;
-&lt;p&gt;Por ejemplo, si A implica B, y sabemos que A es verdadero, entonces podemos deducir que B también debe ser verdadero. Este es un ejemplo de un tipo de razonamiento válido conocido como Modus Ponens.&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;Proposiciones&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Una proposición en lógica es una declaración que puede ser verdadera o falsa, pero no ambas. Las proposiciones se utilizan como los bloques de construcción básicos en los argumentos lógicos.&lt;/p&gt;
-&lt;p&gt;Por ejemplo, la declaración &quot;El cielo es azul&quot; es una proposición porque puede ser verdadera o falsa.&lt;/p&gt;
-&lt;p&gt;Ejercicio resuelto&lt;/p&gt;
-&lt;p&gt;Considera las siguientes proposiciones:&lt;/p&gt;
-&lt;p&gt;p: &quot;El sol brilla&quot; q: &quot;Los pájaros cantan&quot;&lt;/p&gt;
-&lt;p&gt;Podemos formar la proposición compuesta &quot;Si el sol brilla, entonces los pájaros cantan&quot;, que en notación lógica sería p -&amp;gt; q.&lt;/p&gt;
-&lt;p&gt;Si sabemos que p (el sol brilla) es verdadero, y la proposición compuesta p -&amp;gt; q es verdadera, entonces podemos concluir que q (los pájaros cantan) también es verdadero. Esto es un ejemplo de Modus Ponens.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Definiciones&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Lógica: Es el estudio de los principios y métodos de razonamiento válido.&lt;br /&gt;Proposición: Es una declaración que puede ser verdadera o falsa, pero no ambas. Las proposiciones son los bloques de construcción básicos en los argumentos lógicos.&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot; &quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;1200px&quot; height=&quot;675px&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;Presentación Matemática Discreta&quot; frameborder=&quot;0&quot; src=&quot;https://miro.com/app/live-embed/uXjVMUCYn6Y=/?moveToViewport=-16200,-15942,45052,22724&amp;amp;embedId=256419747150&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -365,143 +348,14 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="7"></reference>
+              <none></none>
              </dictionary>
             </instance>
            </list>
            <string role="key" value="icon"></string>
            <unicode value=""></unicode>
            <string role="key" value="id"></string>
-           <unicode value="0"></unicode>
-           <string role="key" value="ideviceCategory"></string>
-           <unicode value="Text and Tasks"></unicode>
-           <string role="key" value="lastIdevice"></string>
-           <bool value="0"></bool>
-           <string role="key" value="nextFieldId"></string>
-           <int value="3"></int>
-           <string role="key" value="originalicon"></string>
-           <string value=""></string>
-           <string role="key" value="parentNode"></string>
-           <reference key="7"></reference>
-           <string role="key" value="systemResources"></string>
-           <list></list>
-           <string role="key" value="undo"></string>
-           <bool value="1"></bool>
-           <string role="key" value="userResources"></string>
-           <list></list>
-           <string role="key" value="version"></string>
-           <int value="0"></int>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="8">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="_attributes"></string>
-           <list>
-            <tuple>
-             <string value="title"></string>
-             <list>
-              <string value="Title"></string>
-              <int value="0"></int>
-              <int value="0"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="category"></string>
-             <list>
-              <string value="Category"></string>
-              <int value="0"></int>
-              <int value="1"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="css-class"></string>
-             <list>
-              <string value="CSS class"></string>
-              <int value="0"></int>
-              <int value="2"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="icon"></string>
-             <list>
-              <string value="Icon"></string>
-              <int value="0"></int>
-              <int value="3"></int>
-             </list>
-            </tuple>
-           </list>
-           <string role="key" value="_author"></string>
-           <string value=""></string>
-           <string role="key" value="_iDeviceDir"></string>
-           <string value="text"></string>
-           <string role="key" value="_purpose"></string>
-           <string value=""></string>
-           <string role="key" value="_tip"></string>
-           <string value=""></string>
-           <string role="key" value="_typeName"></string>
-           <unicode value="Text"></unicode>
-           <string role="key" value="_valid"></string>
-           <bool value="1"></bool>
-           <string role="key" value="class_"></string>
-           <unicode value="text"></unicode>
-           <string role="key" value="edit"></string>
-           <bool value="0"></bool>
-           <string role="key" value="emphasis"></string>
-           <int value="0"></int>
-           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-           <int value="1"></int>
-           <string role="key" value="fields"></string>
-           <list>
-            <instance class="exe.engine.field.TextAreaField" reference="9">
-             <dictionary>
-              <string role="key" value="_id"></string>
-              <unicode value="126_2"></unicode>
-              <string role="key" value="_idevice"></string>
-              <reference key="8"></reference>
-              <string role="key" value="_instruc"></string>
-              <string value=""></string>
-              <string role="key" value="_name"></string>
-              <string value=""></string>
-              <string role="key" value="anchor_names"></string>
-              <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
-              <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Mostrar retroalimentación&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-              <int value="4"></int>
-              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-              <int value="3"></int>
-              <string role="key" value="htmlTag"></string>
-              <string value="div"></string>
-              <string role="key" value="images"></string>
-              <instance class="exe.engine.galleryidevice.GalleryImages">
-               <dictionary>
-                <string role="key" value=".listitems"></string>
-                <list></list>
-                <string role="key" value="idevice"></string>
-                <reference key="9"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="intlinks_to_anchors"></string>
-              <dictionary></dictionary>
-              <string role="key" value="nextImageId"></string>
-              <int value="0"></int>
-              <string role="key" value="parentNode"></string>
-              <reference key="7"></reference>
-             </dictionary>
-            </instance>
-           </list>
-           <string role="key" value="icon"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="id"></string>
-           <unicode value="1"></unicode>
+           <unicode value="7"></unicode>
            <string role="key" value="ideviceCategory"></string>
            <unicode value="Text and Tasks"></unicode>
            <string role="key" value="lastIdevice"></string>
@@ -534,107 +388,114 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Inicio:L%C3%B3gica%20y%20proposiciones"></string>
+        <string value="exe-node:Matem%C3%A1tica%20Discreta:T1-L%C3%93GICA%20PROPOSICIONAL"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
-        <list></list>
-       </dictionary>
-      </instance>
-      <instance class="exe.engine.node.Node" reference="12">
-       <dictionary>
-        <string role="key" value="_title"></string>
-        <unicode value="Proposiciones"></unicode>
-        <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="10">
+         <instance class="exe.engine.node.Node" reference="10">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Concepto"></unicode>
-           <string role="key" value="_attributes"></string>
+           <unicode value="Elementos básicos"></unicode>
+           <string role="key" value="idevices"></string>
            <list>
-            <tuple>
-             <string value="title"></string>
-             <list>
-              <string value="Title"></string>
-              <int value="0"></int>
-              <int value="0"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="category"></string>
-             <list>
-              <string value="Category"></string>
-              <int value="0"></int>
-              <int value="1"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="css-class"></string>
-             <list>
-              <string value="CSS class"></string>
-              <int value="0"></int>
-              <int value="2"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="icon"></string>
-             <list>
-              <string value="Icon"></string>
-              <int value="0"></int>
-              <int value="3"></int>
-             </list>
-            </tuple>
-           </list>
-           <string role="key" value="_author"></string>
-           <string value=""></string>
-           <string role="key" value="_iDeviceDir"></string>
-           <string value="text"></string>
-           <string role="key" value="_purpose"></string>
-           <string value=""></string>
-           <string role="key" value="_tip"></string>
-           <string value=""></string>
-           <string role="key" value="_typeName"></string>
-           <unicode value="Text"></unicode>
-           <string role="key" value="_valid"></string>
-           <bool value="1"></bool>
-           <string role="key" value="class_"></string>
-           <unicode value="text"></unicode>
-           <string role="key" value="edit"></string>
-           <bool value="0"></bool>
-           <string role="key" value="emphasis"></string>
-           <int value="1"></int>
-           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-           <int value="1"></int>
-           <string role="key" value="fields"></string>
-           <list>
-            <instance class="exe.engine.field.TextAreaField" reference="11">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="8">
              <dictionary>
-              <string role="key" value="_id"></string>
-              <unicode value="129_2"></unicode>
-              <string role="key" value="_idevice"></string>
-              <reference key="10"></reference>
-              <string role="key" value="_instruc"></string>
+              <string role="key" value="_title"></string>
+              <unicode value="Lógica y proposiciones"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
               <string value=""></string>
-              <string role="key" value="_name"></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
               <string value=""></string>
-              <string role="key" value="anchor_names"></string>
-              <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
-              <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Una proposición, en el contexto de la lógica, es una declaración que puede ser verdadera o falsa, pero no ambas a la vez. Es una afirmación con un valor de verdad claro y definido. Por ejemplo, la declaración &quot;El agua hierve a 100 grados Celsius a nivel del mar&quot; es una proposición, porque es una afirmación que es claramente verdadera.&lt;/p&gt;
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="9">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="141_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="8"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h2&gt;&lt;strong&gt;Terminología e introducción&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;Lógica&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;La lógica es una rama de la filosofía y las matemáticas que se ocupa del estudio de los principios y métodos de razonamiento válido. Se centra en argumentos y declaraciones, y en cómo se estructuran para formar un razonamiento válido o inválido.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, si A implica B, y sabemos que A es verdadero, entonces podemos deducir que B también debe ser verdadero. Este es un ejemplo de un tipo de razonamiento válido conocido como Modus Ponens.&lt;/p&gt;
+&lt;h4&gt;Proposiciones&lt;/h4&gt;
+&lt;p&gt;Una proposición en lógica es una declaración que puede ser verdadera o falsa, pero no ambas. Las proposiciones se utilizan como los bloques de construcción básicos en los argumentos lógicos.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, la declaración &quot;El cielo es azul&quot; es una proposición porque puede ser verdadera o falsa.&lt;/p&gt;
+&lt;p&gt;Ejercicio resuelto&lt;/p&gt;
+&lt;p&gt;Considera las siguientes proposiciones:&lt;/p&gt;
+&lt;p&gt;p: &quot;El sol brilla&quot; q: &quot;Los pájaros cantan&quot;&lt;/p&gt;
+&lt;p&gt;Podemos formar la proposición compuesta &quot;Si el sol brilla, entonces los pájaros cantan&quot;, que en notación lógica sería p -&amp;gt; q.&lt;/p&gt;
+&lt;p&gt;Si sabemos que p (el sol brilla) es verdadero, y la proposición compuesta p -&amp;gt; q es verdadera, entonces podemos concluir que q (los pájaros cantan) también es verdadero. Esto es un ejemplo de Modus Ponens.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Definiciones&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Lógica: Es el estudio de los principios y métodos de razonamiento válido.&lt;br /&gt;Proposición: Es una declaración que puede ser verdadera o falsa, pero no ambas. Las proposiciones son los bloques de construcción básicos en los argumentos lógicos.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Proposiciones&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;Concepto&lt;/h3&gt;
+&lt;p&gt;Una proposición, en el contexto de la lógica, es una declaración que puede ser verdadera o falsa, pero no ambas a la vez. Es una afirmación con un valor de verdad claro y definido. Por ejemplo, la declaración &quot;El agua hierve a 100 grados Celsius a nivel del mar&quot; es una proposición, porque es una afirmación que es claramente verdadera.&lt;/p&gt;
 &lt;p&gt;En el lenguaje natural existen varios tipos de oraciones que son proposiciones:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Proposiciones declarativas o enunciativas:&lt;/strong&gt; Son las que se emplean en lógica proposicional y pueden ser verdaderas o falsas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Proposiciones Interrogativas:&lt;/strong&gt; Son preguntas y no tienen un valor de verdad porque no afirman ni niegan nada. No pueden ser verdaderas ni falsas porque simplemente plantean una pregunta. Ejemplo: &quot;¿Está lloviendo?&quot;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Proposiciones Imperativas:&lt;/strong&gt; Son órdenes, instrucciones o consejos. Al igual que las proposiciones interrogativas, no tienen un valor de verdad. Ejemplo: &quot;Cierra la puerta&quot;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Proposiciones Exclamativas:&lt;/strong&gt; Son expresiones de emociones o sentimientos y no tienen un valor de verdad. Ejemplo: &quot;¡Qué hermoso atardecer!&quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;
+&lt;p&gt;Proposiciones declarativas o enunciativas: Son las que se emplean en lógica proposicional y pueden ser verdaderas o falsas.&lt;br /&gt;Proposiciones Interrogativas: Son preguntas y no tienen un valor de verdad porque no afirman ni niegan nada. No pueden ser verdaderas ni falsas porque simplemente plantean una pregunta.  &quot;¿Está lloviendo?&quot;&lt;/p&gt;
+&lt;p&gt;Proposiciones Imperativas: Son órdenes, instrucciones o consejos. Al igual que las proposiciones interrogativas, no tienen un valor de verdad. Ejemplo: &quot;Cierra la puerta&quot;.&lt;br /&gt;Proposiciones Exclamativas: Son expresiones de emociones o sentimientos y no tienen un valor de verdad. Ejemplo: &quot;¡Qué hermoso atardecer!&quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Ejercicios propuestos:&lt;/p&gt;
 &lt;p&gt;Identifique el tipo de cada una de las siguientes oraciones:&lt;/p&gt;
 &lt;p&gt;a) &quot;La Tierra gira alrededor del Sol&quot;.&lt;/p&gt;
@@ -643,60 +504,428 @@
 &lt;p&gt;d) &quot;Por favor, enciende la luz&quot;.&lt;br /&gt;Proporciona un ejemplo de cada tipo de proposición: declarativa, interrogativa, imperativa y exclamativa.&lt;br /&gt;Soluciones:&lt;/p&gt;
 &lt;p&gt;a) Declarativa, b) Exclamativa, c) Interrogativa, d) Imperativa.&lt;br /&gt;Ejemplos pueden variar. Aquí hay un posible conjunto de respuestas:&lt;/p&gt;
 &lt;p&gt;Declarativa: &quot;Hoy es lunes&quot;.&lt;br /&gt;Interrogativa: &quot;¿Cuál es tu color favorito?&quot;.&lt;br /&gt;Imperativa: &quot;Abre el libro en la página 100&quot;.&lt;br /&gt;Exclamativa: &quot;¡Eso es asombroso!&quot;.&lt;/p&gt;
-&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Para recordar...&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Estos tipos de oraciones (exclamativas, imperativas e interrogativas) se utilizan con frecuencia en lenguaje natural, pero no se consideran en el estudio de la lógica proposicional porque no tienen un valor de verdad definido.&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-              <int value="4"></int>
-              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Tipos de proposiciones lógicas&lt;/h2&gt;
+&lt;p&gt;Existen varios tipos de proposiciones en lógica:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proposiciones simples o atómicas: Son las proposiciones básicas que no contienen otras proposiciones. Ejemplo: &quot;Hoy está lloviendo&quot;.&lt;/li&gt;
+&lt;li&gt;Proposiciones compuestas o moleculares: Son proposiciones que se forman a partir de otras proposiciones utilizando conectores lógicos. Ejemplo: &quot;Hoy está lloviendo y hace frío&quot;, donde &quot;hoy está lloviendo&quot; y &quot;hace frío&quot; son proposiciones simples que se combinan con el conector &quot;y&quot; para formar una proposición compuesta.&lt;br /&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ejemplos de proposiciones declarativas o enunciativas:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Los gatos son mamíferos.&quot;&lt;br /&gt;&quot;El agua hierve a 100 grados Celsius a nivel del mar.&quot;&lt;br /&gt;&quot;Lima es la capital de Perú.&quot;&lt;br /&gt;&quot;El cuadrado de un número real es siempre un número no negativo.&quot;&lt;br /&gt;&quot;Hay 7 días en una semana.&quot;&lt;br /&gt;Ejercicios de proposiciones simples:&lt;/p&gt;
+&lt;p&gt;Para los siguientes ejercicios, identifica si la proposición es verdadera o falsa:&lt;/p&gt;
+&lt;p&gt;&quot;Los perros son reptiles.&quot;&lt;br /&gt;&quot;La Tierra es plana.&quot;&lt;br /&gt;&quot;Las hojas de los árboles son verdes.&quot;&lt;br /&gt;&quot;5 es un número primo.&quot;&lt;br /&gt;&quot;El día tiene 48 horas.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ejercicios de proposiciones compuestas:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Para los siguientes ejercicios, dadas las proposiciones p: &quot;El sol es una estrella&quot; (Verdadero) y q: &quot;Los elefantes pueden volar&quot; (Falso), identifica si la proposición compuesta es verdadera o falsa:&lt;/p&gt;
+&lt;p&gt;&quot;El sol es una estrella y los elefantes pueden volar.&quot; (p ∧ q)&lt;br /&gt;&quot;El sol es una estrella o los elefantes pueden volar.&quot; (p ∨ q)&lt;br /&gt;&quot;No es cierto que el sol sea una estrella.&quot; (¬p)&lt;br /&gt;&quot;Si el sol es una estrella, entonces los elefantes pueden volar.&quot; (p → q)&lt;br /&gt;&quot;El sol es una estrella si y solo si los elefantes pueden volar.&quot; (p ↔ q)&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="9"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="6"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
               <int value="3"></int>
-              <string role="key" value="htmlTag"></string>
-              <string value="div"></string>
-              <string role="key" value="images"></string>
-              <instance class="exe.engine.galleryidevice.GalleryImages">
-               <dictionary>
-                <string role="key" value=".listitems"></string>
-                <list></list>
-                <string role="key" value="idevice"></string>
-                <reference key="11"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="intlinks_to_anchors"></string>
-              <dictionary></dictionary>
-              <string role="key" value="nextImageId"></string>
-              <int value="0"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="12"></reference>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="11">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Conectores Lógicos"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="12">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="143_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="11"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Conectores Lógicos&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="12"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="8"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Tablas de verdad"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="14">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="144_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="13"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt; FORMAS NORMALES (CONJUNTIVA Y DISYUNTIVA)&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="14"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="9"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
              </dictionary>
             </instance>
            </list>
-           <string role="key" value="icon"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="id"></string>
+           <string role="key" value="_id"></string>
+           <unicode value="3"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T1-L%C3%93GICA%20PROPOSICIONAL:Elementos%20b%C3%A1sicos"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="29">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Reglas de inferencia proposicional"></unicode>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
            <unicode value="4"></unicode>
-           <string role="key" value="ideviceCategory"></string>
-           <unicode value="Text and Tasks"></unicode>
-           <string role="key" value="lastIdevice"></string>
-           <bool value="0"></bool>
-           <string role="key" value="nextFieldId"></string>
-           <int value="3"></int>
-           <string role="key" value="originalicon"></string>
-           <string value=""></string>
-           <string role="key" value="parentNode"></string>
-           <reference key="12"></reference>
-           <string role="key" value="systemResources"></string>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
            <list></list>
-           <string role="key" value="undo"></string>
-           <bool value="1"></bool>
-           <string role="key" value="userResources"></string>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T1-L%C3%93GICA%20PROPOSICIONAL:Reglas%20de%20inferencia%20proposicional"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
-           <string role="key" value="version"></string>
-           <int value="0"></int>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="30">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Lógica de predicados y cuantificadores"></unicode>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
+           <unicode value="5"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T1-L%C3%93GICA%20PROPOSICIONAL:L%C3%B3gica%20de%20predicados%20y%20cuantificadores"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="31">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Limitaciones de la lógica proposicional y de predicados"></unicode>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
+           <unicode value="6"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T1-L%C3%93GICA%20PROPOSICIONAL:Limitaciones%20de%20la%20l%C3%B3gica%20proposicional%20y%20de%20predicados"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
           </dictionary>
          </instance>
         </list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="18">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="T2-CONJUNTOS Y FUNCIONES"></unicode>
+        <string role="key" value="idevices"></string>
+        <list></list>
         <string role="key" value="_id"></string>
         <unicode value="2"></unicode>
         <string role="key" value="_package"></string>
@@ -708,354 +937,649 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Inicio:Proposiciones"></string>
+        <string value="exe-node:Matem%C3%A1tica%20Discreta:T2-CONJUNTOS%20Y%20FUNCIONES"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
-        <list></list>
-       </dictionary>
-      </instance>
-      <instance class="exe.engine.node.Node" reference="15">
-       <dictionary>
-        <string role="key" value="_title"></string>
-        <unicode value="Tipos de proposiciones lógicas"></unicode>
-        <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
+         <instance class="exe.engine.node.Node" reference="17">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="_attributes"></string>
+           <unicode value="Elementos básicos"></unicode>
+           <string role="key" value="idevices"></string>
            <list>
-            <tuple>
-             <string value="title"></string>
-             <list>
-              <string value="Title"></string>
-              <int value="0"></int>
-              <int value="0"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="category"></string>
-             <list>
-              <string value="Category"></string>
-              <int value="0"></int>
-              <int value="1"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="css-class"></string>
-             <list>
-              <string value="CSS class"></string>
-              <int value="0"></int>
-              <int value="2"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="icon"></string>
-             <list>
-              <string value="Icon"></string>
-              <int value="0"></int>
-              <int value="3"></int>
-             </list>
-            </tuple>
-           </list>
-           <string role="key" value="_author"></string>
-           <string value=""></string>
-           <string role="key" value="_iDeviceDir"></string>
-           <string value="text"></string>
-           <string role="key" value="_purpose"></string>
-           <string value=""></string>
-           <string role="key" value="_tip"></string>
-           <string value=""></string>
-           <string role="key" value="_typeName"></string>
-           <unicode value="Text"></unicode>
-           <string role="key" value="_valid"></string>
-           <bool value="1"></bool>
-           <string role="key" value="class_"></string>
-           <unicode value="text"></unicode>
-           <string role="key" value="edit"></string>
-           <bool value="0"></bool>
-           <string role="key" value="emphasis"></string>
-           <int value="0"></int>
-           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-           <int value="1"></int>
-           <string role="key" value="fields"></string>
-           <list>
-            <instance class="exe.engine.field.TextAreaField" reference="14">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="15">
              <dictionary>
-              <string role="key" value="_id"></string>
-              <unicode value="130_2"></unicode>
-              <string role="key" value="_idevice"></string>
-              <reference key="13"></reference>
-              <string role="key" value="_instruc"></string>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
               <string value=""></string>
-              <string role="key" value="_name"></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
               <string value=""></string>
-              <string role="key" value="anchor_names"></string>
-              <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
-              <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Existen varios tipos de proposiciones en lógica:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Proposiciones simples o atómicas:&lt;/strong&gt; Son las proposiciones básicas que no contienen otras proposiciones. Ejemplo: &quot;Hoy está lloviendo&quot;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Proposiciones compuestas o moleculares:&lt;/strong&gt; Son proposiciones que se forman a partir de otras proposiciones utilizando conectores lógicos. Ejemplo: &quot;Hoy está lloviendo y hace frío&quot;, donde &quot;hoy está lloviendo&quot; y &quot;hace frío&quot; son proposiciones simples que se combinan con el conector &quot;y&quot; para formar una proposición compuesta.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt; &lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ejemplos de proposiciones declarativas o enunciativas:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&quot;Los gatos son mamíferos.&quot;&lt;/li&gt;
-&lt;li&gt;&quot;El agua hierve a 100 grados Celsius a nivel del mar.&quot;&lt;/li&gt;
-&lt;li&gt;&quot;Lima es la capital de Perú.&quot;&lt;/li&gt;
-&lt;li&gt;&quot;El cuadrado de un número real es siempre un número no negativo.&quot;&lt;/li&gt;
-&lt;li&gt;&quot;Hay 7 días en una semana.&quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Ejercicios de proposiciones simples:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Para los siguientes ejercicios, identifica si la proposición es verdadera o falsa:&lt;/p&gt;
-&lt;p&gt;&quot;Los perros son reptiles.&quot;&lt;br /&gt;&quot;La Tierra es plana.&quot;&lt;br /&gt;&quot;Las hojas de los árboles son verdes.&quot;&lt;br /&gt;&quot;5 es un número primo.&quot;&lt;br /&gt;&quot;El día tiene 48 horas.&quot;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Ejercicios de proposiciones compuestas:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Para los siguientes ejercicios, dadas las proposiciones p: &quot;El sol es una estrella&quot; (Verdadero) y q: &quot;Los elefantes pueden volar&quot; (Falso), identifica si la proposición compuesta es verdadera o falsa:&lt;/p&gt;
-&lt;p&gt;&quot;El sol es una estrella y los elefantes pueden volar.&quot; (p ∧ q)&lt;br /&gt;&quot;El sol es una estrella o los elefantes pueden volar.&quot; (p ∨ q)&lt;br /&gt;&quot;No es cierto que el sol sea una estrella.&quot; (¬p)&lt;br /&gt;&quot;Si el sol es una estrella, entonces los elefantes pueden volar.&quot; (p → q)&lt;br /&gt;&quot;El sol es una estrella si y solo si los elefantes pueden volar.&quot; (p ↔ q)&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Solución&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Soluciones a los ejercicios de proposiciones simples:&lt;/p&gt;
-&lt;p&gt;Falso&lt;br /&gt;Falso&lt;br /&gt;Verdadero (Aunque esto podría variar dependiendo del tipo de árbol, generalmente se acepta como una verdad).&lt;br /&gt;Verdadero&lt;br /&gt;Falso&lt;br /&gt;Soluciones a los ejercicios de proposiciones compuestas:&lt;/p&gt;
-&lt;p&gt;Falso (Verdadero ∧ Falso = Falso)&lt;br /&gt;Verdadero (Verdadero ∨ Falso = Verdadero)&lt;br /&gt;Falso (¬Verdadero = Falso)&lt;br /&gt;Falso (Verdadero → Falso = Falso)&lt;br /&gt;Falso (Verdadero ↔ Falso = Falso)&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;
-&lt;p&gt;Soluciones a los ejercicios de proposiciones simples:&lt;/p&gt;
-&lt;p&gt;Falso&lt;br /&gt;Falso&lt;br /&gt;Verdadero (Aunque esto podría variar dependiendo del tipo de árbol, generalmente se acepta como una verdad).&lt;br /&gt;Verdadero&lt;br /&gt;Falso&lt;br /&gt;Soluciones a los ejercicios de proposiciones compuestas:&lt;/p&gt;
-&lt;p&gt;Falso (Verdadero ∧ Falso = Falso)&lt;br /&gt;Verdadero (Verdadero ∨ Falso = Verdadero)&lt;br /&gt;Falso (¬Verdadero = Falso)&lt;br /&gt;Falso (Verdadero → Falso = Falso)&lt;br /&gt;Falso (Verdadero ↔ Falso = Falso)&lt;/p&gt;
-&lt;/quillbot-extension-portal&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-              <int value="4"></int>
-              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-              <int value="3"></int>
-              <string role="key" value="htmlTag"></string>
-              <string value="div"></string>
-              <string role="key" value="images"></string>
-              <instance class="exe.engine.galleryidevice.GalleryImages">
-               <dictionary>
-                <string role="key" value=".listitems"></string>
-                <list></list>
-                <string role="key" value="idevice"></string>
-                <reference key="14"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="intlinks_to_anchors"></string>
-              <dictionary></dictionary>
-              <string role="key" value="nextImageId"></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
               <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="16">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="136_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="15"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;: REVISIÓN TEÓRICO PRÁCTICA DE LOS DIAGRAMAS DE VENN, UNIÓN, INTERSECCIÓN, COMPLEMENTO&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="16"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="1"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="15"></reference>
+              <reference key="17"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
              </dictionary>
             </instance>
            </list>
-           <string role="key" value="icon"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="id"></string>
-           <unicode value="5"></unicode>
-           <string role="key" value="ideviceCategory"></string>
-           <unicode value="Text and Tasks"></unicode>
-           <string role="key" value="lastIdevice"></string>
-           <bool value="0"></bool>
-           <string role="key" value="nextFieldId"></string>
-           <int value="3"></int>
-           <string role="key" value="originalicon"></string>
-           <string value=""></string>
-           <string role="key" value="parentNode"></string>
-           <reference key="15"></reference>
-           <string role="key" value="systemResources"></string>
+           <string role="key" value="_id"></string>
+           <unicode value="7"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
            <list></list>
-           <string role="key" value="undo"></string>
-           <bool value="1"></bool>
-           <string role="key" value="userResources"></string>
-           <list></list>
-           <string role="key" value="version"></string>
-           <int value="0"></int>
-          </dictionary>
-         </instance>
-        </list>
-        <string role="key" value="_id"></string>
-        <unicode value="3"></unicode>
-        <string role="key" value="_package"></string>
-        <reference key="4"></reference>
-        <string role="key" value="anchor_fields"></string>
-        <list></list>
-        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exportType"></string>
-        <string value="website"></string>
-        <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Inicio:Tipos%20de%20proposiciones%20l%C3%B3gicas"></string>
-        <string role="key" value="parent"></string>
-        <reference key="3"></reference>
-        <string role="key" value="top_anchors_linked_from_fields"></string>
-        <list></list>
-        <string role="key" value="children"></string>
-        <list></list>
-       </dictionary>
-      </instance>
-      <instance class="exe.engine.node.Node" reference="18">
-       <dictionary>
-        <string role="key" value="_title"></string>
-        <unicode value="Conectores lógicos"></unicode>
-        <string role="key" value="idevices"></string>
-        <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="16">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="_attributes"></string>
-           <list>
-            <tuple>
-             <string value="title"></string>
-             <list>
-              <string value="Title"></string>
-              <int value="0"></int>
-              <int value="0"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="category"></string>
-             <list>
-              <string value="Category"></string>
-              <int value="0"></int>
-              <int value="1"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="css-class"></string>
-             <list>
-              <string value="CSS class"></string>
-              <int value="0"></int>
-              <int value="2"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="icon"></string>
-             <list>
-              <string value="Icon"></string>
-              <int value="0"></int>
-              <int value="3"></int>
-             </list>
-            </tuple>
-           </list>
-           <string role="key" value="_author"></string>
-           <string value=""></string>
-           <string role="key" value="_iDeviceDir"></string>
-           <string value="text"></string>
-           <string role="key" value="_purpose"></string>
-           <string value=""></string>
-           <string role="key" value="_tip"></string>
-           <string value=""></string>
-           <string role="key" value="_typeName"></string>
-           <unicode value="Text"></unicode>
-           <string role="key" value="_valid"></string>
-           <bool value="1"></bool>
-           <string role="key" value="class_"></string>
-           <unicode value="text"></unicode>
-           <string role="key" value="edit"></string>
-           <bool value="0"></bool>
-           <string role="key" value="emphasis"></string>
-           <int value="0"></int>
-           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-           <int value="1"></int>
-           <string role="key" value="fields"></string>
-           <list>
-            <instance class="exe.engine.field.TextAreaField" reference="17">
-             <dictionary>
-              <string role="key" value="_id"></string>
-              <unicode value="131_2"></unicode>
-              <string role="key" value="_idevice"></string>
-              <reference key="16"></reference>
-              <string role="key" value="_instruc"></string>
-              <string value=""></string>
-              <string role="key" value="_name"></string>
-              <string value=""></string>
-              <string role="key" value="anchor_names"></string>
-              <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
-              <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Los conectores lógicos principales incluyen:&lt;/p&gt;
-&lt;p&gt;&quot;Y&quot; o &quot;∧&quot; (Conjunción): La proposición &quot;p y q&quot; es verdadera solo si tanto p como q son verdaderos.&lt;br /&gt;&quot;O&quot; o &quot;∨&quot; (Disyunción): La proposición &quot;p o q&quot; es verdadera si p es verdadero, q es verdadero, o ambos son verdaderos.&lt;br /&gt;&quot;No&quot; o &quot;¬&quot; (Negación): La proposición &quot;no p&quot; es verdadera si p es falsa, y viceversa.&lt;br /&gt;&quot;→&quot; (Implicación o condicional): La proposición &quot;p → q&quot; es verdadera a menos que p sea verdadera y q sea falsa.&lt;br /&gt;&quot;↔&quot; (Bicondicional o equivalencia): La proposición &quot;p ↔ q&quot; es verdadera si p y q son ambas verdaderas o ambas falsas.&lt;br /&gt;La lógica de proposiciones se ocupa de las operaciones y la transformación de las proposiciones. El valor de verdad de una proposición compuesta se puede determinar a partir de los valores de verdad de sus proposiciones simples.&lt;/p&gt;
-&lt;p&gt;Un ejemplo de proposición compuesta sería: &quot;Si hace sol, entonces iré al parque&quot;. En este caso, &quot;hace sol&quot; es una proposición simple, &quot;iré al parque&quot; es otra proposición simple, y toda la declaración es una proposición compuesta, con la implicación como conector lógico.&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Mostrar retroalimentación&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;quillbot-extension-portal&gt;&lt;/quillbot-extension-portal&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-              <int value="4"></int>
-              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-              <int value="3"></int>
-              <string role="key" value="htmlTag"></string>
-              <string value="div"></string>
-              <string role="key" value="images"></string>
-              <instance class="exe.engine.galleryidevice.GalleryImages">
-               <dictionary>
-                <string role="key" value=".listitems"></string>
-                <list></list>
-                <string role="key" value="idevice"></string>
-                <reference key="17"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="intlinks_to_anchors"></string>
-              <dictionary></dictionary>
-              <string role="key" value="nextImageId"></string>
-              <int value="0"></int>
-              <string role="key" value="parentNode"></string>
-              <reference key="18"></reference>
-             </dictionary>
-            </instance>
-           </list>
-           <string role="key" value="icon"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="id"></string>
-           <unicode value="6"></unicode>
-           <string role="key" value="ideviceCategory"></string>
-           <unicode value="Text and Tasks"></unicode>
-           <string role="key" value="lastIdevice"></string>
-           <bool value="0"></bool>
-           <string role="key" value="nextFieldId"></string>
-           <int value="3"></int>
-           <string role="key" value="originalicon"></string>
-           <string value=""></string>
-           <string role="key" value="parentNode"></string>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T2-CONJUNTOS%20Y%20FUNCIONES:Elementos%20b%C3%A1sicos"></string>
+           <string role="key" value="parent"></string>
            <reference key="18"></reference>
-           <string role="key" value="systemResources"></string>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
-           <string role="key" value="undo"></string>
-           <bool value="1"></bool>
-           <string role="key" value="userResources"></string>
+           <string role="key" value="children"></string>
+           <list>
+            <instance class="exe.engine.node.Node" reference="28">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Diagramas de Venn"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="10"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="4"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Matem%C3%A1tica%20Discreta:T2-CONJUNTOS%20Y%20FUNCIONES:Elementos%20b%C3%A1sicos:Diagramas%20de%20Venn"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="21">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Operaciones entre conjuntos"></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="0"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="20">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="139_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="19"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;UNIÓN, INTERSECCIÓN, COMPLEMENTO&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="20"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <none></none>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="4"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="21"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="11"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="4"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Matem%C3%A1tica%20Discreta:T2-CONJUNTOS%20Y%20FUNCIONES:Elementos%20b%C3%A1sicos:Operaciones%20entre%20conjuntos"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+           </list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="24">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Relaciones entre conjuntos"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="22">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="23">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="137_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="22"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;RELACIONES O REFLEXIVIDAD, SIMETRÍA, TRANSITIVIDAD.&lt;br /&gt;LAS RELACIONES DE EQUIVALENCIA, ÓRDENES PARCIALES&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="23"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="2"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="24"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="8"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
            <list></list>
-           <string role="key" value="version"></string>
-           <int value="0"></int>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T2-CONJUNTOS%20Y%20FUNCIONES:Relaciones%20entre%20conjuntos"></string>
+           <string role="key" value="parent"></string>
+           <reference key="18"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="27">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Tipos y propiedades de las funciones"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="25">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="26">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="138_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="25"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;FUNCIONES: INYECTIVAS,&lt;br /&gt;SOBREYECTIVAS Y BIYECTIVAS. BIYECCIONES INVERSAS Y COMPOSICIÓN,&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="26"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="3"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="27"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="9"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Matem%C3%A1tica%20Discreta:T2-CONJUNTOS%20Y%20FUNCIONES:Tipos%20y%20propiedades%20de%20las%20funciones"></string>
+           <string role="key" value="parent"></string>
+           <reference key="18"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
           </dictionary>
          </instance>
         </list>
-        <string role="key" value="_id"></string>
-        <unicode value="4"></unicode>
-        <string role="key" value="_package"></string>
-        <reference key="4"></reference>
-        <string role="key" value="anchor_fields"></string>
-        <list></list>
-        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exportType"></string>
-        <string value="website"></string>
-        <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Inicio:Conectores%20l%C3%B3gicos"></string>
-        <string role="key" value="parent"></string>
-        <reference key="3"></reference>
-        <string role="key" value="top_anchors_linked_from_fields"></string>
-        <list></list>
-        <string role="key" value="children"></string>
-        <list></list>
        </dictionary>
       </instance>
      </list>
@@ -1063,12 +1587,26 @@
    </instance>
    <unicode role="key" value="1"></unicode>
    <reference key="7"></reference>
+   <unicode role="key" value="10"></unicode>
+   <reference key="28"></reference>
+   <unicode role="key" value="11"></unicode>
+   <reference key="21"></reference>
    <unicode role="key" value="2"></unicode>
-   <reference key="12"></reference>
-   <unicode role="key" value="3"></unicode>
-   <reference key="15"></reference>
-   <unicode role="key" value="4"></unicode>
    <reference key="18"></reference>
+   <unicode role="key" value="3"></unicode>
+   <reference key="10"></reference>
+   <unicode role="key" value="4"></unicode>
+   <reference key="29"></reference>
+   <unicode role="key" value="5"></unicode>
+   <reference key="30"></reference>
+   <unicode role="key" value="6"></unicode>
+   <reference key="31"></reference>
+   <unicode role="key" value="7"></unicode>
+   <reference key="17"></reference>
+   <unicode role="key" value="8"></unicode>
+   <reference key="24"></reference>
+   <unicode role="key" value="9"></unicode>
+   <reference key="27"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -1079,7 +1617,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="3"></reference>
+  <reference key="10"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -1088,12 +1626,11 @@
     <string role="key" value="coverage"></string>
     <unicode value=""></unicode>
     <string role="key" value="creator"></string>
-    <unicode value="marchelo2212"></unicode>
+    <unicode value="Marcelo Sotaminga"></unicode>
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value="Sitio web sobre matemática discreta
-"></unicode>
+    <unicode value="V1"></unicode>
     <string role="key" value="format"></string>
     <unicode value=""></unicode>
     <string role="key" value="identifier"></string>
@@ -1111,7 +1648,7 @@
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="Matemática Discreta Proposiciones"></unicode>
+    <unicode value="Matematica Discreta"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -1234,7 +1771,7 @@
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="Sitio web sobre matem\xc3\xa1tica discreta\n"></string>
+            <string value="V1"></string>
            </dictionary>
           </instance>
          </list>
@@ -1293,7 +1830,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Matem\xc3\xa1tica Discreta Proposiciones"></string>
+           <string value="Matematica Discreta"></string>
           </dictionary>
          </instance>
         </list>
@@ -1321,7 +1858,7 @@
              <string role="key" value="uniqueElementName"></string>
              <string value="dateTime"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="2023-06-12T15:40:36.00-05:00"></string>
+             <string value="2023-11-25T18:50:16.00-05:00"></string>
             </dictionary>
            </instance>
            <string role="key" value="description"></string>
@@ -1357,7 +1894,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:marchelo2212 EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Marcelo Sotaminga EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -1425,7 +1962,7 @@
              <string role="key" value="uniqueElementName"></string>
              <string value="dateTime"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="2023-06-12T13:59:05.00-05:00"></string>
+             <string value="2023-11-25T15:41:41.00-05:00"></string>
             </dictionary>
            </instance>
            <string role="key" value="description"></string>
@@ -1461,7 +1998,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:marchelo2212 EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Marcelo Sotaminga EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -1691,7 +2228,7 @@
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="Sitio web sobre matem\xc3\xa1tica discreta\n"></string>
+            <string value="V1"></string>
            </dictionary>
           </instance>
          </list>
@@ -1750,7 +2287,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Matem\xc3\xa1tica Discreta Proposiciones"></string>
+           <string value="Matematica Discreta"></string>
           </dictionary>
          </instance>
         </list>
@@ -1778,7 +2315,7 @@
              <string role="key" value="uniqueElementName"></string>
              <string value="dateTime"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="2023-06-12T15:40:36.00-05:00"></string>
+             <string value="2023-11-25T18:50:16.00-05:00"></string>
             </dictionary>
            </instance>
            <string role="key" value="description"></string>
@@ -1814,7 +2351,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:marchelo2212 EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Marcelo Sotaminga EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -1882,7 +2419,7 @@
              <string role="key" value="uniqueElementName"></string>
              <string value="dateTime"></string>
              <string role="key" value="valueOf_"></string>
-             <string value="2023-06-12T13:59:05.00-05:00"></string>
+             <string value="2023-11-25T15:41:41.00-05:00"></string>
             </dictionary>
            </instance>
            <string role="key" value="description"></string>
@@ -1918,7 +2455,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:marchelo2212 EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Marcelo Sotaminga EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -2111,7 +2648,7 @@
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.8"></string>
+  <string value="2.8.1"></string>
   <string role="key" value="resources"></string>
   <dictionary></dictionary>
   <string role="key" value="root"></string>
@@ -2123,7 +2660,7 @@
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="cedec"></unicode>
+  <unicode value="INTEF"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
